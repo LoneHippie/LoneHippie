@@ -6,12 +6,13 @@
 - 💡 I'm working on React Native projects and taking occassional freelance front end work
 - 🏠 [You can learn more about me by checking out my portfolio site here!](https://www.lonehippei.dev/)
 
-## Languages
+## Front End Tech
 
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%23007ACC.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Sass](https://img.shields.io/badge/sass-%2CD6799.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## My GitHub stats
 

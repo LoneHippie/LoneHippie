@@ -14,14 +14,14 @@
 ![Sass](https://img.shields.io/badge/-Sass-CD6799?logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?logo=javascript&logoColor=white)
-![GatsbyJS](https://img.shields.io/badge/-GatsbyJS-#663399?logo=gatsbyjsy&logoColor=white)
+![GatsbyJS](https://img.shields.io/badge/-GatsbyJS-#663399?logo=gatsbyjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-61DAFB?logo=redux&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-0cb47c?logo=figma&logoColor=white)
 
 ## Back End Tech
 
-![NodeJS](https://img.shields.io/badge/-NodeJS-3c873a?logo=node&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-NodeJS-3c873a?logo=nodejs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-3c873a?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-F6820D?logo=firebase&logoColor=white)

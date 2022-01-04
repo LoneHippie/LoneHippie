@@ -14,7 +14,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-CD6799?logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?logo=javascript&logoColor=white)
-![GatsbyJS](https://img.shields.io/badge/-Gatsby-#663399?logo=gatsby&logoColor=white)
+![GatsbyJS](https://img.shields.io/badge/-GatsbyJS-#663399?logo=gatsbydotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-61DAFB?logo=redux&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-0cb47c?logo=figma&logoColor=white)

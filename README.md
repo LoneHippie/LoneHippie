@@ -14,7 +14,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-CD6799?logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?logo=javascript&logoColor=white)
-![GatsbyJS](https://img.shields.io/badge/-GatsbyJS-#663399?logo=data%3Aimage%2F%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EGatsby%3C%2Ftitle%3E%3Cpath%20d%3D%22M12%200C5.4%200%200%205.4%200%2012s5.4%2012%2012%2012%2012-5.4%2012-12S18.6%200%2012%200zm0%202.571c3.171%200%205.915%201.543%207.629%203.858l-1.286%201.115C16.886%205.572%2014.571%204.286%2012%204.286c-3.343%200-6.171%202.143-7.286%205.143l9.857%209.857c2.486-.857%204.373-3%204.973-5.572h-4.115V12h6c0%204.457-3.172%208.228-7.372%209.17L2.83%209.944C3.772%205.743%207.543%202.57%2012%202.57zm-9.429%209.6l9.344%209.258c-2.4-.086-4.801-.943-6.601-2.743-1.8-1.8-2.743-4.201-2.743-6.515z%22%2F%3E%3C%2Fsvg%3E&logoColor=white)
+![GatsbyJS](https://img.shields.io/badge/gastbyjs-43B02A.svg?&style=for-the-badge&logo=gastbyjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-61DAFB?logo=redux&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-0cb47c?logo=figma&logoColor=white)

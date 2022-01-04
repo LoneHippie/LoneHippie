@@ -8,12 +8,12 @@
 
 ## Front End Tech
 
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%23007ACC.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-e34c26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-2965f1?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?logo=javascript&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CD6799?logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?logo=javascript&logoColor=white)
 
 
 ## My GitHub stats

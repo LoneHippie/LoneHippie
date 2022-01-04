@@ -1,9 +1,9 @@
-### Hello and welcome
+### Hello and welcome 👋
 ---
 
-- 💻 My name is Jordan and I'm a full stack software developer
+- 💻 My name is Jordan and I'm a full stack software developer from Oregon currently living in Herzliya, Israel
 - 📑 I'm currently learning more about mobile development and web design
-- 💡 I'm working on React Native projects and taking occassional freelance front end work
+- 💡 I'm also working on React Native projects and taking occassional freelance front end work
 - 🏠 [You can learn more about me by checking out my portfolio site here!](https://www.lonehippei.dev/)
 
 ## Front End Tech
@@ -14,7 +14,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-CD6799?logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?logo=javascript&logoColor=white)
-![GatsbyJS](https://img.shields.io/badge/-GatsbyJS-#663399?logo=gatsby&logoColor=white)
+![GatsbyJS](https://img.shields.io/badge/-Gatsby-#663399?logo=gatsby&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-61DAFB?logo=redux&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-0cb47c?logo=figma&logoColor=white)

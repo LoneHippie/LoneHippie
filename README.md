@@ -26,6 +26,13 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-F6820D?logo=firebase&logoColor=white)
 
+## Tooling
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white)
+
 ## My GitHub stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

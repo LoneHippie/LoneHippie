@@ -4,7 +4,7 @@
 - 💻 My name is Jordan and I'm a full stack software developer from Oregon currently living in Herzliya, Israel
 - 📑 I'm currently learning more about mobile development and web design
 - 💡 I'm also working on React Native projects and taking occassional freelance front end work
-- 🏠 [You can learn more about me by checking out my portfolio site here!](https://www.lonehippei.dev/)
+- 🏠 [You can learn more about me by checking out my portfolio site here!](https://www.lonehippie.dev/)
 
 ## Front End Tech
 

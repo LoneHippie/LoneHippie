@@ -36,10 +36,10 @@
 ## My GitHub stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoneHippie&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoneHippie&theme=tokyonight&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LoneHippie&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LoneHippie&&theme=tokyonightshow_icons=true" />
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonehippie&label=Profile%20views&color=0e75b6&style=flat" alt="lonehippie" /> </p>

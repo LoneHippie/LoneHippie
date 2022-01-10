@@ -1,5 +1,4 @@
 # Hello and welcome 👋
----
 
 - 💻 My name is Jordan and I'm a full stack software developer from Oregon currently living in Herzliya, Israel
 - 📑 I'm currently learning more about mobile development and web design

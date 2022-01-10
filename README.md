@@ -1,4 +1,4 @@
-### Hello and welcome 👋
+# Hello and welcome 👋
 ---
 
 - 💻 My name is Jordan and I'm a full stack software developer from Oregon currently living in Herzliya, Israel

@@ -32,6 +32,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white)
+![Docker](https://img.shields.io/badge/-Xcode-0DV7ED?logo=docker&logoColor=white)
 
 ## My GitHub stats
 

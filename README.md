@@ -25,7 +25,7 @@
 ![Express](https://img.shields.io/badge/-Express-3c873a?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-306998?logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-2c2c2c?logo=flask&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-F6820D?logo=firebase&logoColor=white)
 
 ## Tooling

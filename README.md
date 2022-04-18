@@ -1,8 +1,8 @@
 # Hello and welcome 👋
 
 - 💻 My name is Jordan and I'm a full stack software developer from Oregon currently living in Herzliya, Israel
-- 📑 I'm currently working on more Typescript and design patterns!
-- 💡 I'm also working playing around with Rust and Python and taking occassional freelance front end work
+- 📑 I'm currently working on learning Kotlin, more Svelte and new design patterns!
+- 💡 I'm also working playing around with Rust and Python on occasion
 - 🌱 Looking to learn about web development? Feel free to reach out and ask me anything!
 - 🏠 [You can learn more about me by checking out my portfolio site here!](https://www.lonehippie.dev/)
 

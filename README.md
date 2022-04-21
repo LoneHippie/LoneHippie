@@ -18,7 +18,6 @@
 ![GatsbyJS](https://img.shields.io/badge/-GatsbyJS-663399?logo=gatsby&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-61DAFB?logo=redux&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-0cb47c?logo=figma&logoColor=white)
 
 ## Back End Tech
 
@@ -34,6 +33,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-0cb47c?logo=figma&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white)
 

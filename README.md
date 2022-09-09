@@ -15,6 +15,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF4E00?logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?logo=typescript&logoColor=white)
+![NextJS](https://img.shields.io/badge/-NextJS-202020?logo=next&logoColor=white)
 ![GatsbyJS](https://img.shields.io/badge/-GatsbyJS-663399?logo=gatsby&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-61DAFB?logo=redux&logoColor=white)
